@@ -11,3 +11,10 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.card-body { text-align:left }
+.down-caret { font-size: .7rem; font-family:Arial, Helvetica, sans-serif }
+.top-menu {
+  height: 90px;
+  padding-top: 20px;
+}
